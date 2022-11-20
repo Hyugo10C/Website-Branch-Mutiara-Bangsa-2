@@ -251,7 +251,7 @@ section#foto-fotokegiatan {
 	flex-direction: row;
 	justify-content: space-around;
 	overflow: hidden;
-	padding: 10px 0px 10px 0px;
+	padding: 5px 0px 5px 0px;
 }
 
 section#foto-fotokegiatan div {
@@ -259,8 +259,8 @@ section#foto-fotokegiatan div {
 }
 
 section#foto-fotokegiatan div img {
-	height: 100px;
-	width: 100px;
+	max-width: 100px;
+	max-height: 75px;
 	border-radius: 5px;
 }
 
