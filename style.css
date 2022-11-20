@@ -260,6 +260,7 @@ section#foto-fotokegiatan div {
 
 section#foto-fotokegiatan div img {
 	height: 100px;
+	width: 100px;
 	border-radius: 5px;
 }
 
